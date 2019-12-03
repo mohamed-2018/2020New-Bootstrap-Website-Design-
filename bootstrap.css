@@ -1,0 +1,378 @@
+.f{
+ font-style: oblique;
+ text-align: center;
+ padding-bottom: 0%;
+
+}
+.f1,.f3{
+    text-align: center;
+    height: 50%;
+
+}
+.f2{
+    width: 60px;
+    height: 1px;
+    background-color: red;
+    position: relative;
+    left: 48%;
+}
+.f5{
+    text-align: center;
+    height: 50%;
+    font-size: 120%;
+}
+
+.w
+{
+ color: aliceblue;
+ font: bold;
+}
+
+@media only screen and  (min-width: 1200px) 
+{ 
+    .customLayout{
+        flex: 0 0 20%;
+        max-width : 20%;
+    }
+}
+.gridCustome
+{
+    background-color: turquoise;
+
+}
+.hed{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 300px;
+  position: relative;
+  font-size: 100px
+}
+.img{
+    height: 50%;
+    width: 50%;
+    bottom: 0%;
+    position: relative;
+    left: 30%;
+}
+.boot1{
+    
+    background-image: url("../wamobile/wamobile/122.jpg");
+    position: relative;
+}
+.obasty
+{
+    background-color: white;
+    opacity: 0.6;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    position: absolute;
+}
+.im1{
+    position: relative;
+bottom: 0%;
+width: 60%;
+left: 25%;
+}
+.im2{
+    position: absolute;
+    width: 20%;
+    height: 30%;
+    margin: auto;
+    left: 54%;
+    top: 50%;
+   
+}
+.rest{
+    width: 100%;
+    height: 100%;
+}
+.cd1{
+    scroll-behavior: auto;
+    max-height: 200px;
+    overflow: auto;
+}
+.nort{
+    position: relative;
+    background-color: lightgray;
+    max-height: 98px;
+    
+}
+.wqnm,.wqnm1
+{
+    display: inline-block;
+}
+.wqnm{
+    position: absolute;
+    
+}
+.wqnm1{
+    position: relative;
+    top: 90%;
+    left: 14%;
+}
+.f50{
+    width: 60px;
+    height: 2px;
+    background-color: red;
+    position: absolute;
+    left: 38.5%;
+    bottom: 15%;
+}
+.f51{
+position: relative;
+
+left: 1%;
+}
+.let{
+    background-color: azure;
+}
+.te{
+    text-align: center;
+}
+.gridCustome1
+{
+    background-color:lightgray;
+    height: 200px;
+
+}
+.yyu{
+    position: relative;
+    top: 38px;
+}
+.customLayout2{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    padding: 0px;
+   
+}
+.rmr>containe>div{
+    width: 100%;
+
+}
+.wqnm20,.wqnm21
+{
+    
+}
+.wqnm20{
+    position: absolute;
+    left: 0%;
+    top:0%;
+    bottom: 30%;
+    
+}
+.wqnm21{
+    position: relative;
+    top: 90%;
+    left: 18%;
+}
+.f500{
+    width: 60px;
+    height: 2px;
+    background-color: red;
+    position: absolute;
+    left: 37.5%;
+    bottom: 15%;
+}
+.f510{
+position: relative;
+
+left: 1%;
+}
+.x{
+    font-style: oblique;
+    text-align: center;
+    padding-bottom: 0%;
+    position: relative;
+    bottom: 50%;
+   
+   }
+   .x1,.x3{
+       text-align: center;
+       height: 50%;
+       position: relative;
+       bottom: 49.5%;
+   
+   }
+   .x2{
+       width: 60px;
+       height: 1px;
+       background-color: red;
+       position: relative;
+       left: 44%;
+       bottom:90%;
+   }
+   .x3{
+       position: relative;
+       bottom: 90%;
+       left: 20%;
+   }
+   .x4{
+    position: relative;
+    bottom: 135%;
+    left: 40%;
+}
+.www{
+    color: red;
+}
+.root{
+ 
+        background-image: url("../wamobile/wamobile/img/7500.png");
+        position: relative;
+    
+}
+
+.mmm{
+    
+        color:red;
+    
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.aa2{
+    background-color: darkgray;
+    width: 27.8%;
+    left: 0%;
+}
+.social a {
+    padding: 0 .5em;
+    color: blue;
+  }
+
+select.frecuency {
+    border: none;
+    font-style: italic;
+    background-color: transparent;
+    cursor: pointer;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-transition: -webkit-transform .35s ease-in;
+    transition: -webkit-transform .35s ease-in;
+    border-bottom: none;
+}
+select.frecuency:focus {
+    outline: none;
+    border-bottom: 5px solid #22313F;
+    -webkit-transform: translateY(-5px);
+    transform: translateY(-5px);
+    -webkit-transition: -webkit-transform .35s ease-in;
+    transition: -webkit-transform .35s ease-in;
+}
+.free {
+    text-transform: uppercase;
+}
+.input-group {
+    margin: 20px auto;
+    width: 100%;
+}
+input.btn.btn-lg {
+    width: 60%;
+    height: 60px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+button.btn {
+    width: 40%;
+    height: 60px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.promise {
+    color: #999;
+   
+}
+  .socialnew
+  {
+      position: relative;
+      right: 8.75%;
+  }
+  .aa3{
+    background-color: darkgray;
+    width: 80%;
+    left: 9.3%;
+}
+.sp1{
+    color: red;
+}
+.pr60{
+    position: relative;
+    left: 35%;
+}
+.subscribe
+{
+    position: relative;
+    left:-26%;
+   
+
+}
+.last
+{
+    position: relative;
+    left: 9%;
+    
+}
+@media only screen and  (min-width: 1200px) 
+{ 
+    .customLayout3{
+        flex: 0 0 20%;
+        max-width : 60%;
+        position: relative;
+        right: 36%;
+        
+
+    }
+}
+
+.MG5
+{
+    position: relative;
+    left: 8.6%;
+}
+.as1
+{
+    position: absolute;
+    left: 30%;
+    top: 0%;
+}
+footer{
+    position: relative;
+    bottom: 650px;
+    right: 5%;
+    margin-bottom: -50%;
+    
+}
+.ccnc
+{
+    padding: 0%;
+    right: 25.61%;
+}
+.ccnc2
+{
+    position: relative;
+    right: 51.4%;
+}
+.size20
+{
+    font-size: 79%;
+    position: absolute;
+    top: 0%;
+}
+.pc5
+{
+    font-size: 50%;
+    position: absolute;
+    bottom: -10%;
+}
+.ins
+{
+    position: relative;
+    left: 7.5%;
+}
+.as2{
+    position: relative;
+    right: -60%;
+bottom: 715px;
+}
